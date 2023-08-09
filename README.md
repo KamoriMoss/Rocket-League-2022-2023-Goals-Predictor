@@ -1,26 +1,15 @@
 # Rocket League 2022-2023 Goals Predictor
 
-Hello, My name is Kamori Moss and I am a student at Georgia State University. I am a CIS major and this project is something I've created with my fellow classmate Jekell Smith, however this entire coding portion is done by me.
-
+Hello, I am Kamori Moss, a student at Georgia State University. I am a CIS major and this project is something I've created with my classmate Jekell Smith. The purpose of this project is to display to potential employers my usage of importing, cleaning, and preprocessing data, data splitting and training, modeling, evaluation, and creating visualizations for data. The project is a goal predictor for the popular video game Rocket League. If you are interested we also created a PowerPoint further detailing our findings this project serves as a display for our code. 
+PowerPoint - https://www.canva.com/design/DAFhJqYIj_s/OjxLXSnCnY58BfdtG5nW-A/edit?utm_content=DAFhJqYIj_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Table of Contents
 
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Overview
-
-Provide a concise overview of your project. Explain what it does, why it's useful, and who the target audience is. This section should give a clear understanding of your project's purpose.
+- Importing, cleaning, and Preprocessing
+- Data Split and Training
+- Modeling
+- Evaluation
 
 ## Installation
 
-Detail the steps needed to install your project. Include any dependencies, libraries, or tools that users need to have pre-installed. You can also provide code snippets to help users get started quickly.
+Simply view the Jupyter Notebook
 
-```bash
-git clone https://github.com/yourusername/your-project.git
-cd your-project
-npm install
